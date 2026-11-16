@@ -1,15 +1,6 @@
-# dot files
-/.vscode/launch.json
-/.settings
-/.eide/log
-/.eide.usr.ctx.json
-
-# project out
-/build
-/bin
-/obj
-/out
-
-# eide template
-*.ept
-*.eide-template
+# Keil build output and local debugger settings
+/MDK-ARM/ADC_Project/
+/MDK-ARM/*.lst
+/MDK-ARM/*.uvguix.*
+/MDK-ARM/JLinkLog.txt
+/MDK-ARM/JLinkSettings.ini
